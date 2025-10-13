@@ -1,6 +1,6 @@
 # 📑 Assets
 
-⭕ [**Veja a documentação completa aqui**](https://github.com/gupcdm-jpg/wiki-assets/wiki/Bem-vindo-a-Wiki-do-nosso-sistema-de-Assets)
+⭕ [**Veja a documentação completa aqui**](https://github.com/gupcdm-jpg/wiki-assets/wiki/Sistema-de-Assets)
 
 ---
 
